@@ -139,7 +139,7 @@ Avoiding Common Mistakes
 Here are some common pitfalls and how to avoid them:
 
 - **Mistake:** Downloading from unofficial websites  
-  **Solution:** Use only trusted links like https://iolohelp.hostlink.click/desk/
+  **Solution:** Use only trusted links
 
 - **Mistake:** Entering the wrong email  
   **Solution:** Double-check the email used during purchase
