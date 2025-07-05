@@ -28,17 +28,6 @@ If you can't find your license key, you can retrieve it via the official iolo su
 
 Step 1: Go to the Official Download Page
 ----------------------------------------
-
-Click on the link below or type it manually into your browser:
-
-.. raw:: html
-
-   <div style="margin-top: 10px; margin-bottom: 25px;">
-     <a href="https://iolohelp.hostlink.click/desk/" target="_blank" style="background-color:#003366; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
-       Download System Mechanic Now
-     </a>
-   </div>
-
 This page is safe, official, and directly connected to your **system mechanic download bought already** request. Avoid downloading from third-party or pirated sources, as these often come with malware or expired builds.
 
 Step 2: Login to Your iolo Account
