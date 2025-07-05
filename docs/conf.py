@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'IOLO'
 copyright = '2025'
-author = 'Tim Jakson'
+author = 'Veronica Buckley'
 
 release = '1.0'
 
